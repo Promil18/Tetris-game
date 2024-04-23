@@ -1,2 +1,2 @@
 # Tetris-game
-Tetris game made using html, css and node js.
+Tetris game made using html, css, node js and java script
